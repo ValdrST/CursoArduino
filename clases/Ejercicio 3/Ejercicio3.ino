@@ -1,6 +1,6 @@
 //led controlado con potenciometro
 int led=8;
-int potenciometro=7;
+int potenciometro=A0;
 int brillo;  
 
 void setup ()  {
